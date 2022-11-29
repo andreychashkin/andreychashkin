@@ -24,3 +24,7 @@
 
   ## My projects:
 ### :star: <a target="_blank" href="https://github.com/andreychashkin/qa_quru_api.git">Автотесты сервера ВКС(небольшая часть наработок)</a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreychashkin)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreychashkin) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreychashkin)
