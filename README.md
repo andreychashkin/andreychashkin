@@ -1,16 +1,26 @@
-### Hi there 👋
+  ## About me:
+Стаж работы QA 3 года<br> 
+  
+  ## Contact me: 
+  <div id="contact_me">
 
-<!--
-**andreychashkin/andreychashkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://t.me/nestandarta">
+    <img src="image/logo/telegram.svg" alt="Telegram"/>
+  </a>
 
-Here are some ideas to get you started:
+</div>
+  
+  
+  
+ ## Stack:
+ <p align="center">
+<img width="6%" title="Python" src="image/logo/python.svg">
+<img width="6%" title="Selenium" src="image/logo/selenium.png">
+<img width="6%" title="Rest-api" src="image/logo/rest-api.svg">
+<img width="6%" title="Allure Report" src="image/logo/testopslogo.svg">
+<img width="6%" title="GitHub" src="image/logo/github.svg">
+<img width="6%" title="Telegram" src="image/logo/telegram.svg">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## My projects:
+### :star: <a target="_blank" href="https://github.com/andreychashkin/qa_quru_api.git">Автотесты сервера ВКС(небольшая часть наработок)</a>
