@@ -5,7 +5,7 @@
   <div id="contact_me">
 
   <a href="https://t.me/nestandarta">
-    <img src="image/logo/telegram.svg" alt="Telegram"/>
+    <img src="images/logo/telegram.svg" alt="Telegram"/>
   </a>
 
 </div>
@@ -14,12 +14,12 @@
   
  ## Stack:
  <p align="center">
-<img width="6%" title="Python" src="image/logo/python.svg">
-<img width="6%" title="Selenium" src="image/logo/selenium.png">
-<img width="6%" title="Rest-api" src="image/logo/rest-api.svg">
-<img width="6%" title="Allure Report" src="image/logo/testopslogo.svg">
-<img width="6%" title="GitHub" src="image/logo/github.svg">
-<img width="6%" title="Telegram" src="image/logo/telegram.svg">
+<img width="6%" title="Python" src="images/logo/python.svg">
+<img width="6%" title="Selenium" src="images/logo/selenium.png">
+<img width="6%" title="Rest-api" src="images/logo/rest-api.svg">
+<img width="6%" title="Allure Report" src="images/logo/testopslogo.svg">
+<img width="6%" title="GitHub" src="images/logo/github.svg">
+<img width="6%" title="Telegram" src="images/logo/telegram.svg">
 </p>
 
   ## My projects:
