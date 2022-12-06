@@ -31,7 +31,8 @@
 <h3> <a href="https://github.com/andreychashkin/qa_quru_api/actions">Api tests GitHub Action</a> </h3>
 <img width="80%" src="images/gitHubAction.png">
 <h3> Selenoid - примеры тестов </h3>
-<img src='videos/fastCall.gif' width="40%" title="Быстрый вызов в конференцию ВКС"> | <img src='videos/StartConference.gif' width="40%" title="Старт конференции ВКС">
+<img src='videos/fastCall.gif' width="80%" title="Быстрый вызов в конференцию ВКС">
+<img src='videos/StartConference.gif' width="80%" title="Старт конференции ВКС">
 
 
 ## My projects:
