@@ -31,7 +31,7 @@
 <h3> <a href="">Api tests GitHub Action</a> </h3>
 <img src="images/gitHubAction.png">
 <h3> Selenoid - примеры тестов </h3>
-<video src='videos/fastCall.mp4' width="18%"> | <video src='videos/StartConference.mp4' width="18%">
+<img src='videos/fastCall.gif' width="30%" title="Быстрый вызов в конференцию ВКС"> | <img src='videos/StartConference.gif' width="30%" title="Старт конференции ВКС">
 
 
 ## My projects:
