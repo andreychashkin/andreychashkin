@@ -16,7 +16,8 @@
  <p align="center">
 <img width="6%" title="Python" src="images/logo/python.svg">
 <img width="6%" title="Selenium" src="images/logo/selenium.png">
-<img width="6%" title="Rest-api" src="images/logo/rest-api.svg">
+<img width="6%" title="Selenoid" src="images/logo/selenoid.png">
+<img width="6%" title="Rest-api" src="images/logo/rest-api.png">
 <img width="6%" title="Allure Report" src="images/logo/testopslogo.svg">
 <img width="6%" title="GitHub" src="images/logo/github.svg">
 <img width="6%" title="Telegram" src="images/logo/telegram.svg">
