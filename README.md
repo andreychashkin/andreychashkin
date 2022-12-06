@@ -24,7 +24,17 @@
 <img width="6%" title="Telegram" src="images/logo/telegram.svg">
 </p>
 
-  ## My projects:
+<h3> <a href="https://jenkins.autotests.cloud/job/VinteoServer/"> Jenkins </a> - проект интеграции </h3>
+<img src="images/jenkinsPage.png">
+<h3> <a href="https://jenkins.autotests.cloud/job/VinteoServer/"> Allure Report </a> - График прохождения тестов</h3>
+<img src="images/allureReport.png">
+<h3> <a href="">Api tests GitHub Action</a> </h3>
+<img src="images/gitHubAction.png">
+<h3> Selenoid - примеры тестов </h3>
+<video src='videos/fastCall.mp4' width="18%"> | <video src='videos/StartConference.mp4' width="18%">
+
+
+## My projects:
 ### :star: <a target="_blank" href="https://github.com/andreychashkin/qa_quru_api.git">Автотесты сервера ВКС(небольшая часть наработок)</a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreychashkin)
