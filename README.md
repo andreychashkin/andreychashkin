@@ -25,14 +25,22 @@
 </p>
 
 <h3> <a href="https://jenkins.autotests.cloud/job/VinteoServer/"> Jenkins </a> - проект интеграции </h3>
-<img width="80%" src="images/JenkinsPage.png">
+    <details><summary>Открыть скриншот</summary>
+        <img width="80%" src="images/JenkinsPage.png">
+    </details>
 <h3> <a href="https://jenkins.autotests.cloud/job/VinteoServer/allure/"> Allure Report </a> - График прохождения тестов</h3>
-<img width="80%" src="images/allureReport.png">
+    <details><summary>Открыть скриншот</summary>
+        <img width="80%" src="images/allureReport.png">
+    </details>
 <h3> <a href="https://github.com/andreychashkin/qa_quru_api/actions">Api tests GitHub Action</a> </h3>
-<img width="80%" src="images/gitHubAction.png">
-<h3> Selenoid - примеры тестов </h3>
-<img src='videos/fastCall.gif' width="80%" title="Быстрый вызов в конференцию ВКС">
-<img src='videos/StartConference.gif' width="80%" title="Старт конференции ВКС">
+    <details><summary>Открыть скриншот</summary>
+        <img width="80%" src="images/gitHubAction.png">
+    </details>
+<h3> Selenoid </h3>
+    <details><summary>Видео прогона тестов</summary>
+        <img src='videos/fastCall.gif' width="80%" title="Быстрый вызов в конференцию ВКС">
+        <img src='videos/StartConference.gif' width="80%" title="Старт конференции ВКС">
+    </details>
 
 
 ## My projects:
