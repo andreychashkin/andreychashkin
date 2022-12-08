@@ -41,6 +41,10 @@
         <img src='videos/fastCall.gif' width="80%" title="Быстрый вызов в конференцию ВКС">
         <img src='videos/StartConference.gif' width="80%" title="Старт конференции ВКС">
     </details>
+<h3> Telegram Bot для оповещения о результатх тестирования </h3>
+    <details><summary>"Краткий отчет в Telegram"</summary>
+        <img src='images/tg_bot.png' width="50%" title="Краткий отчет в Telegram">
+    </details>
 
 
 ## My projects:
