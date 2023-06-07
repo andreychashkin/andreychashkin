@@ -34,7 +34,7 @@
         <img width="80%" src="images/allureReport.png">
     </details>
 
-<h3> <a href="https://github.com/andreychashkin/qa_quru_api/actions">Api tests GitHub Action</a> </h3>
+<h3> Api tests GitHub Action </h3>
     <details><summary>Открыть скриншот</summary>
         <img width="80%" src="images/gitHubAction.png">
     </details>
