@@ -24,12 +24,12 @@
 <img width="6%" title="Telegram" src="images/logo/telegram.svg">
 </p>
 
-<h3> <a href="https://jenkins.autotests.cloud/job/VinteoServer/"> Jenkins </a> - проект интеграции </h3>
+<h3> Jenkins - проект интеграции </h3>
     <details><summary>Открыть скриншот</summary>
         <img width="80%" src="images/JenkinsPage.png">
     </details>
 
-<h3> <a href="https://jenkins.autotests.cloud/job/VinteoServer/allure/"> Allure Report </a> - График прохождения тестов</h3>
+<h3> Allure Report - График прохождения тестов</h3>
     <details><summary>Открыть скриншот</summary>
         <img width="80%" src="images/allureReport.png">
     </details>
